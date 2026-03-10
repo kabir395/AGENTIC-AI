@@ -1,4 +1,4 @@
- Agentic AI Journey - Telegram Chatbot (n8n) [Enhanced README]
+Agentic AI Journey - Telegram Chatbot (n8n) [Enhanced README]
 Project 1: My first agentic AI workflow — a fully functional Telegram chatbot built with n8n, featuring AI reasoning, memory, and tool calling.
 
 🎯 What This Project Demonstrates
